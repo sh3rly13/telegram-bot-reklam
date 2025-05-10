@@ -84,6 +84,8 @@ Bu bot, kendi Telegram hesabınızın üye olduğu grup ve kanallardaki yönetic
    - Takip edilen gruplar ve kanallar
    - Kullanılabilir Gemini modelleri
 
+[/ilk.png]
+
 ## ⚙️ Ayarlar ve Yapılandırma
 
 `.env` dosyasında aşağıdaki parametreleri değiştirebilirsiniz:

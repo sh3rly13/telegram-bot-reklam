@@ -87,14 +87,10 @@ Bu bot, kendi Telegram hesabınızın üye olduğu grup ve kanallardaki yönetic
 
 ## 📹 Video Rehberi
 
-Aşağıdaki Twitter paylaşımı, botun kurulumu ve kullanımı hakkında detaylı bir video rehberi sunmaktadır:
+Botun nasıl sonuç verdiği hakkında detaylı bir video : 
 
-[![Telegram Bot Video Rehberi](https://pbs.twimg.com/ext_tw_video_thumb/1921215244693807104/pu/img/n8xZ3-RQZeL17Q5I.jpg)](https://x.com/sh3rly13/status/1921215327439860212)
+[Telegram Bot Video](https://x.com/sh3rly13/status/1921215327439860212)
 
-*Not: Video görüntülemek için Twitter (X) bağlantısına tıklayınız.*
-
-Alternatif olarak, aşağıdaki bağlantıyı ziyaret edebilirsiniz:
-[https://x.com/sh3rly13/status/1921215327439860212](https://x.com/sh3rly13/status/1921215327439860212)
 
 ## ⚙️ Ayarlar ve Yapılandırma
 

@@ -78,13 +78,16 @@ Bu bot, kendi Telegram hesabınızın üye olduğu grup ve kanallardaki yönetic
 2. İlk çalıştırmada Telegram hesabınıza giriş yapmanız gerekecektir:
    - Telefon numaranıza gelen doğrulama kodunu girin
    - Gerekirse iki faktörlü doğrulama kodunu da girin
+   
+![](/ilk.png)
 
 3. Bot şimdi çalışıyor! Konsolda aşağıdaki bilgileri göreceksiniz:
    - Botun kendi kullanıcı ID'si ve kullanıcı adı
    - Takip edilen gruplar ve kanallar
    - Kullanılabilir Gemini modelleri
 
-[/ilk.png]
+![](/ikinci.png)
+![](/video.mp4)
 
 ## ⚙️ Ayarlar ve Yapılandırma
 
